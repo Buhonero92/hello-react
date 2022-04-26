@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/carlos.zuleta/Documents/Projects/Github%20Actions/App/hello-react/.github/workflows/build.yml"
+    }
+}
